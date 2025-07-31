@@ -1,0 +1,7 @@
+{
+  "name": "vcli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "licong",
+  "license": "MIT"
+}
